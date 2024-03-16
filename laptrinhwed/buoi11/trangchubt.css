@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    
+}
+header{
+    margin-left: 60px;
+    margin-left: 0px;
+    border-bottom: 2px solid gray;
+}
+header img{
+    background-color: orange;
+}
+header a{
+    text-decoration: none;
+    color: black;
+    margin-left: 60px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+header a:hover{
+    background-color: rgb(79, 79, 62, 0.614);
+    color: aliceblue;
+}
+.logo{
+    height: 89px;
+    width: 80px;
+}
+.phone{
+    margin-left: 470px;
+    color: orange;
+}
+.blox{
+    margin-left: 50px;
+    margin-bottom: 70px;
+}
+.mane{
+    margin-top: 10px;
+}
+header .blox{
+    background-color: aliceblue;
+    color: black;
+    padding-block: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+header .lox{
+    background-color: orange;
+    color: aliceblue;
+    padding-block: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    border: 2px solid orange;
+}
+.mane a{
+    margin-left: 40px;
+    margin-right: 0px;
+}
+.list a{
+    margin-left: 50px;
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+.col{
+    border: 2px solid black;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 30px;
+    margin-right: 700px;
+}
+.col a{
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+.col img{
+    width: 60%;
+    margin-left: 160px;
+}
